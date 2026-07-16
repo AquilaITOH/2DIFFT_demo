@@ -1,0 +1,6 @@
+#dir
+/.venv/
+
+#file
+.DS_Store
+
